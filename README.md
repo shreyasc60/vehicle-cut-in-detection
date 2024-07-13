@@ -8,5 +8,5 @@ Participants: shreyasc60, Shantnu-Talokar, sachinbisen, kinshookk
 # Documentation
 To run this code you'll need to install the following dependencies or module through the 
 `pip install ...` command.
-##### <b>Dependencies</b>: opencv, numpy, winsound (for windows)
-##### <b>Additional Dependencies</b>: 'beep' package (for linux)
+##### **Dependencies**: opencv, numpy, winsound (for windows)
+##### **Additional Dependencies**: 'beep' package (for linux)
