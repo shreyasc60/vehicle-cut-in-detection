@@ -11,4 +11,3 @@ To run this code you'll need to install the following dependencies or module thr
 
 ***Dependencies***:    opencv, numpy, winsound (for windows)
 
-***Additional Dependencies***:    'beep' package (for linux)
