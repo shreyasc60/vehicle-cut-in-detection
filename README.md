@@ -7,4 +7,4 @@ Participants: shreyasc60, Shantnu-Talokar, sachinbisen, kinshookk
 
 # Documentation
 To run this code you'll need to install the following dependencies or module through the 
-`pip install x y z' command.
+`pip install x y z` command.
