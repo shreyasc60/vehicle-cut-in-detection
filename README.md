@@ -22,5 +22,5 @@ To run this code you'll need to install the following dependencies or modules th
    
    Change the path in the code to load your personal file
 4. Execute the code
-5. You can wait for the video capture to end, or alternatively press 'q' on your keyboard to stop the execution 
+5. You can wait for the video capture to end, or alternatively press ***'q'*** on your keyboard to stop the execution 
 
