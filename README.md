@@ -8,7 +8,7 @@ Participants: shreyasc60, Shantnu-Talokar, sachinbisen, kinshookk
 To run this code you'll need to install the following dependencies or module through the 
 `py -m pip install -r requirements.txt` command (on Windows 10+).
 
-- ***Dependencies***:    opencv-python, numpy, winsound (for windows)
+- ***Dependencies***:    opencv-python, numpy, winsound
 
 # How to use this? 
 - Requirements: Windows 10 or above
