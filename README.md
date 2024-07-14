@@ -18,7 +18,7 @@ To run this code you'll need to install the following dependencies or module thr
 2. Install and download the dependencies
 3. Configure the code to load your own image/video file in OpenCV
 
-   > 6 `cap = cv2.VideoCapture("/path/to/your/file")  # Change to 0 for webcam`
+   > 15 `cap = cv2.VideoCapture("/path/to/your/file")  # Change to 0 for webcam`
    
    Change the path in the code to load your personal file
 5. Execute the code 
