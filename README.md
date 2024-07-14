@@ -5,7 +5,7 @@ for object detection, and using the obtained data to detect cut-in(s) and genera
 __Participants__: [shreyasc60](https://github.com/shreyasc60), [Shantnu-Talokar](https://github.com/Shantnu-Talokar), [sachinbisen](https://github.com/sachinbisen), [kinshookk](https://github.com/kinshookk)
 
 # Dependencies
-To run this code you'll need to install the following dependencies or module through the 
+To run this code you'll need to install the following dependencies or modules through the 
 `py -m pip install -r requirements.txt` command (on Windows 10+).
 
 - ***Dependencies***:    opencv-python, numpy, winsound
