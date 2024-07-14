@@ -1,7 +1,6 @@
 # Documentation
-Intel Unnati Industrial Training - Problem Statement 8: Vehicle Cut-in Detection
-
-This repository is where all the code will go!
+A python based vehicle cut-in detection algorithm making the use of existing deep learning model YOLO
+for object detection, and using the obtained data to detect cut-in(s) and generatin collision alerts.
 
 Participants: shreyasc60, Shantnu-Talokar, sachinbisen, kinshookk
 
