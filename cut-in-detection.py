@@ -1,7 +1,6 @@
 import cv2
 import numpy as np
-# import winsound
-# import time as tm
+import winsound
 
 # Load YOLO
 net = cv2.dnn.readNet("yolov3.weights", "yolov3.cfg")
@@ -116,7 +115,7 @@ while True:
                 if time < 0.8:
                     color = (0, 0, 255)  # Red for danger Zone
                     fff = 1000
-                # winsound.Beep(fff, 200)
+                winsound.Beep(fff, 200)
                 cv2.fillPoly(frame, [pts],color)
             if x + 5 > lane_left_x(y + h) and x + 5 < lane_right_x(y + h) and y + h > 0.6 * height:
                 color = (0, 144, 255)  # Orange for objects within lane
@@ -124,21 +123,13 @@ while True:
                 if time < 0.8:
                     color = (0, 0, 255)  # Red for danger Zone
                     fff = 1000
-                # winsound.Beep(fff, 200)
+                winsound.Beep(fff, 200)
                 cv2.fillPoly(frame, [pts],color)
             #cv2.rectangle(frame, (x, y), (x + w, y + h), color, 2)
             #cv2.putText(frame, f"Distance: {distance:.2f}m", (x, y + h + 20), font, 0.5, (255, 0, 0), 2)
     
     # Display the frame
     cv2.imshow("Frame", frame)
-    # time when we finish processing for this frame 
-    # new_frame_time = tm.time()
-    # fps = 1/(new_frame_time-prev_frame_time) 
-    # prev_frame_time = new_frame_time 
-    # fps = int(fps)
-    # fps = str(fps) 
-    # cv2.putText(frame, fps, (7, 70), font, 3, (100, 255, 0), 3, cv2.LINE_AA) 
-    # cv2.imshow('frame', frame)
 
     # Break the loop with 'q' key
     if cv2.waitKey(1) & 0xFF == ord('q'):
