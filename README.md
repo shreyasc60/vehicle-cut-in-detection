@@ -16,6 +16,8 @@ To run this code you'll need to install the following dependencies or module thr
 - Requirements: Windows 10 or above
 1. Clone repo in your working directory
 2. Install the dependencies
-3. Configure the code to load your own image/video file in OpenCV
-4. Execute the code 
+3. Configure the code to load your own image/video file in OpenCV.
+   `cap = cv2.VideoCapture("/path/to/your/file")  # Change to 0 for webcam`
+   Change the path in the code to load your personal file
+5. Execute the code 
 
