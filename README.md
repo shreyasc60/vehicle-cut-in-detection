@@ -2,7 +2,7 @@
 A python based vehicle cut-in detection algorithm making the use of existing deep learning model YOLO
 for object detection, and using the obtained data to detect cut-in(s) and generatin collision alerts.
 
-__Participants__: [shreyasc60](https://github.com/shreyasc60), [Shantnu-Talokar](https://github.com/Shantnu-Talokar), [sachinbisen](https://github.com/sachinbisen), [kinshookk](https://github.com/kinshookk)
+__Contributors__: [shreyasc60](https://github.com/shreyasc60), [Shantnu-Talokar](https://github.com/Shantnu-Talokar), [sachinbisen](https://github.com/sachinbisen), [kinshookk](https://github.com/kinshookk)
 
 # Dependencies
 To run this code you'll need to install the following dependencies or modules through the 
