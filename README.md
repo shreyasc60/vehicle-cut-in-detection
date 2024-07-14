@@ -21,5 +21,6 @@ To run this code you'll need to install the following dependencies or module thr
    > 15 `cap = cv2.VideoCapture("/path/to/your/file")  # Change to 0 for webcam`
    
    Change the path in the code to load your personal file
-5. Execute the code 
+4. Execute the code
+5. You can wait for the video capture to end, or alternatively press 'q' on your keyboard to stop the execution 
 
