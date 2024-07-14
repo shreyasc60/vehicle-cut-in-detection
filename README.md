@@ -9,7 +9,8 @@ To run this code you'll need to install the following dependencies or module thr
 `py -m pip install -r requirements.txt` command (on Windows 10+).
 
 - ***Dependencies***:    opencv-python, numpy, winsound
-- You'll also need to [download](https://www.kaggle.com/datasets/valentynsichkar/yolo-coco-data?select=yolov3.weights) the ***'yolov3.weights'*** file, and place it in the root directory for the code to run successfully.
+- Additionally you'll also need to [download](https://www.kaggle.com/datasets/valentynsichkar/yolo-coco-data?select=yolov3.weights) the ***'yolov3.weights'*** file, and place it in the root directory for the code to run successfully.
+  The yolov3.cfg and coco.names are provided in the repo by default.
 
 # How to use this? 
 - Requirements: Windows 10 or above
