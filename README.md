@@ -14,8 +14,8 @@ To run this code you'll need to install the following dependencies or module thr
 
 # How to use this? 
 - Requirements: Windows 10 or above
-- Clone repo in your working directory
-- Install the dependencies
-- Configure the code to load your own image/video file in OpenCV
-- Execute the code 
+1. Clone repo in your working directory
+2. Install the dependencies
+3. Configure the code to load your own image/video file in OpenCV
+4. Execute the code 
 
