@@ -24,4 +24,5 @@ To run this code you'll need to install the following dependencies or modules th
 4. Execute the code
 5. You can wait for the video capture to end, or alternatively press ***'q'*** on your keyboard to stop the execution 
 
-# New Heading
+# Project Report
+- Here's a link to our project report.
