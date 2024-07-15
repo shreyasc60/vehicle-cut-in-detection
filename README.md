@@ -25,4 +25,4 @@ To run this code you'll need to install the following dependencies or modules th
 5. You can wait for the video capture to end, or alternatively press ***'q'*** on your keyboard to stop the execution 
 
 # Project Report
-- Here's a link to our project report: .....
+- Here's a link to our project report: [.....](https://docs.google.com/document/d/1UT5YCXEsNrlOida02AvIHntJtMJGXVao/edit?usp=sharing&ouid=101209253185197768734&rtpof=true&sd=true)
